@@ -1,0 +1,165 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.sans{
+	 font-family: 'Open Sans', sans-serif;
+}
+
+.mono{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.header{
+	background-image: url(img/hero-background.png);
+	height:747px;
+	background-position: center;
+
+}
+
+.h1font{
+	font-size: 94px;
+
+}
+.ptfont{
+	font-size: 14px;
+	 margin: auto;
+
+}
+.pbfont{
+	font-size: 21px;
+	font-weight: bold;
+
+}
+
+
+.bgblack{
+	background-color: black;
+}
+
+.menuline{
+	font-size: 23px;
+	font-weight: bold;
+	color: #02FDC3;
+	text-decoration: line-through;
+}
+
+.menulist{
+	font-size: 32px;
+	font-weight: bold;
+}
+
+.menulist a{
+	text-decoration: none;
+	color: white;
+}
+
+.menulist a:hover{
+	color: #02FDC3;
+}
+
+
+
+.skyblue{
+	color: #02FDC3;
+}
+
+.ulmenu{
+	padding: 0px 10px;
+}
+
+button{
+	background: none;
+	color: inherit;
+	border: none;
+}
+
+.margintopauto{
+	margin-top: auto;
+}
+
+.portfolio2{
+	background-image: url(img/image-portfolio2.png);
+	height: 253px;
+	background-position: center;
+}
+.portfolio3{
+	background-image: url(img/image-portfolio3.png);
+	height: 253px;
+	background-position: center;
+}
+.portfolio4{
+	background-image: url(img/image-portfolio4.png);
+	height: 253px;
+	background-position: center;
+}
+.portfolio5{
+	background-image: url(img/image-portfolio5.png);
+	height: 253px;
+	background-position: center;
+}
+.portfolio6{
+	background-image: url(img/image-portfolio6.png);
+	height: 253px;
+	background-position: center;
+}
+.portfolio7{
+	background-image: url(img/image-portfolio7.png);
+	height: 253px;
+	background-position: center;
+}
+.portfolio8{
+	background-image: url(img/image-portfolio8.png);
+	height: 253px;
+	background-position: center;
+}
+.portfoliobig{
+	background-image: url(img/image-portfolio-big.png);
+	height: 506px;
+	background-position: center;
+}
+
+
+.dot {
+  height: 26px;
+  width: 26px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+
+}
+
+.borderhr{
+	border-color: #02FDC3;
+}
+
+
+.backfoot{
+	background-image: url(img/footer-background.png);
+	height: 298px;
+
+}
+
+.white{
+	color: white;
+}
+
+.grey{
+	color: grey;
+}
+
+
+.overlay{
+	z-index: 55;
+	position: absolute;
+	background-color: rgba(5,5,5,0.9);
+	width: 100%; 
+	overflow: auto;
+	max-height: 100vh;
+}
+
+.padd a{
+	padding: 9px;
+}
+

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="83" height="83" viewBox="0 0 83 83">
+  <g id="Group_200" data-name="Group 200" transform="translate(-131 -5299)">
+    <g id="_007-pin" data-name="007-pin" transform="translate(154.826 5316.492)">
+      <g id="Group_141" data-name="Group 141" transform="translate(0)">
+        <g id="Group_140" data-name="Group 140">
+          <path id="Path_118" data-name="Path 118" d="M67.312,0a17.558,17.558,0,0,0-17.54,17.549c0,9.425,16.177,27.687,16.863,28.454a.9.9,0,0,0,1.345,0c.686-.776,16.863-19.03,16.863-28.454A17.558,17.558,0,0,0,67.312,0Zm0,44.026C64.225,40.415,51.577,25.259,51.577,17.54a15.735,15.735,0,0,1,31.469,0C83.047,25.259,70.4,40.433,67.312,44.026Z" transform="translate(-49.772)"/>
+        </g>
+      </g>
+      <g id="Group_143" data-name="Group 143" transform="translate(8.359 8.802)">
+        <g id="Group_142" data-name="Group 142">
+          <path id="Path_119" data-name="Path 119" d="M133.349,78a9.506,9.506,0,1,0,9.515,9.506A9.506,9.506,0,0,0,133.349,78Zm0,17.215a7.7,7.7,0,1,1,7.7-7.7A7.7,7.7,0,0,1,133.349,95.215Z" transform="translate(-123.852 -78)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Ellipse_54" data-name="Ellipse 54" transform="translate(131 5299)" fill="none" stroke="#1d1d1d" stroke-width="2">
+      <circle cx="41.5" cy="41.5" r="41.5" stroke="none"/>
+      <circle cx="41.5" cy="41.5" r="40.5" fill="none"/>
+    </g>
+  </g>
+</svg>
